@@ -13,7 +13,7 @@ knit        : slidify::knit2slides
 
 ## Models to Assist in Fuels Planning
 
-![width](assets/img/slide1.JPG)
+![width](slide1.JPG)
 
 Brandon Caltrider
 Biology/Ecology student at Northern Michigan University (expected graduation spring 2021)
