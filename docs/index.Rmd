@@ -47,7 +47,6 @@ Initial research yielded a wealth of tools that seemed to fit into three categor
 
 ![width](slide4.JPG)
 
-* Passive and active emissions modeling 
 * Web based platform that supports emissions planning through ground monitoring networks, daily smoke forecasts, and customized emissions modeling
 * Produces easily digestible graphics and maps
 
@@ -57,7 +56,7 @@ Initial research yielded a wealth of tools that seemed to fit into three categor
 
 ![width](slide5.JPG)
 
-* BlueSky Framework’s Modeling Playground pulls source data from LANDFIRES FCCS (Fuel Characteristic Classification System)
+* BlueSky’s Modeling Playground pulls source data from LANDFIRE'S FCCS (Fuel Characteristic Classification System)
 
 --- .class #id 
 
@@ -65,7 +64,7 @@ Initial research yielded a wealth of tools that seemed to fit into three categor
 
 ![width](slide6.JPG)
 
-* Total GHG, PM 2.5, and PM 10.0 released are compiled into and easily digestible graphic
+* Total GHG, PM 2.5, and PM 10.0 released are compiled into an easily digestible graphic
 * Emissions are also visualized in tons per hour 
 
 --- .class #id 
@@ -74,8 +73,7 @@ Initial research yielded a wealth of tools that seemed to fit into three categor
 
 ![width](slide7.JPG)
 
-* A desktop application that is capable of preventative and active emissions modeling using LANDFIRE supplied data
-* Software is not capable of pulling data directly from sources, must be uploaded 
+* A desktop application that is capable of preventative and active emissions modeling using LANDFIRE data
 * Creation of custom fuelbeds for a burn unit of interest can be conducted easily 
 
 --- .class #id 
@@ -84,7 +82,6 @@ Initial research yielded a wealth of tools that seemed to fit into three categor
 
 ![width](slide8.JPG)
 
-* Interface for FFT3.0 where users build customized “units” as a list of fuelbeds for a given area of interest (AoI)
 * This tool can yield high resolution emissions modeling for prescribed burns before they occur. 
 * Managers can upload a shapefile of the AoI and quickly generate representative outputs
 
@@ -103,7 +100,6 @@ Initial research yielded a wealth of tools that seemed to fit into three categor
 ![width](slide10.JPG)
 
 * A desktop application capable of preventative and active fire behavior modeling 
-* Inputs can be derived from LANDFIRE data to create high resolution custom landscapes 
 * Outputs including fire behavior metrics like Minimum Travel Time, Flame Length, and Line Intensity can be calculated and explored Google Earth
 
 --- .class #id 
@@ -122,7 +118,7 @@ Initial research yielded a wealth of tools that seemed to fit into three categor
 
 ![width](slide12.JPG)
 
-* Is a team focused on creating products that push conservation forward.  We perform research, conduct data analysis and generate data visualizations
+* Is a team focused on creating products that push conservation forward.  
 * For example, Myles Walimaa wrote R code that can process the raster data inputs needed for development of custom fuelbeds to use in FFT 3.0
 * The CDL can help you take outputs from fuel modeling tools and create infographics, dashboards or interactive charts
 
