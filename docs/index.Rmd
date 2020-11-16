@@ -118,7 +118,7 @@ Initial research yielded a wealth of tools that seemed to fit into three categor
 
 ![width](slide12.JPG)
 
-* Is a team focused on creating products that push conservation forward.  
+* Is focused on creating products that push conservation forward.  
 * For example, Myles Walimaa wrote R code that can process the raster data inputs needed for development of custom fuelbeds to use in FFT 3.0
 * The CDL can help you take outputs from fuel modeling tools and create infographics, dashboards or interactive charts
 
